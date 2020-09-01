@@ -1,0 +1,14 @@
+Command Line Functions: A List
+
++ cd: change directory
++ cd .. : go backwards in a directory
++ cp: copy a file from one location to another
++ mv: move a file from one location to another
++ rm: remove a file (permanent) 
++ mkdir: create a new folder
++ cat: display content of a file
++ head: display first 10 lines of a file
++ tail: display last 10 lines of a file
++ wc: count lines, words, and characters in a file
++ nano: command-line text editor that ships with Ubuntu
++ top: show the usage stats
