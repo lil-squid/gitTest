@@ -10,7 +10,7 @@ I guess I don't have gedit
 
 
 
-Some text down here
+Some text down here.
 
 
 
